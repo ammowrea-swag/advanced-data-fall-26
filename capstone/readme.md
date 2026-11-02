@@ -1,4 +1,4 @@
-# copper capstone (a.k.a. me vs messy trade data)
+# copper capstone 
 
 This is me cleaning up trade data for my capstone project.
 The raw files are in `data/`, the cleaned exports are in `output/`, and the two notebooks are where the cleanup happened.
